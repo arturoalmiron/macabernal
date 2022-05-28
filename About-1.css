@@ -1,6 +1,8 @@
  .u-section-1 {
   background-image: url("images/mbbmpro.png");
   background-position: 50% 50%;
+  background-size: 100%;
+
 }
 
 .u-section-1 .u-sheet-1 {
@@ -84,11 +86,11 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 4.5rem;
+    font-size: 10vw;
   }
 
   .u-section-1 .u-text-2 {
-    font-size: 4.5rem;
+    font-size: 10vw;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 500px;
